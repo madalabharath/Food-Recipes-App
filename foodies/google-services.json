@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "242062079789",
+    "project_id": "foodies-cd431",
+    "storage_bucket": "foodies-cd431.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242062079789:android:54cb89294623dc497585a4",
+        "android_client_info": {
+          "package_name": "com.example.foodies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyqdMk12Oo09WtcCoE8ygvt26MI2_A878"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
